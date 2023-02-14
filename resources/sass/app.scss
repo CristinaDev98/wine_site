@@ -1,0 +1,14 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+.title-logo{
+    font-family: 'Caveat', cursive;
+    font-size: .5em;
+    color: rgb(142, 6, 6);
+}
