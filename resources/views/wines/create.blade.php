@@ -59,10 +59,7 @@
         <input type="file" class="form-control" name="image" id="image">
     </div>
     <div>
-        <a href="#" style="margin-top: 5em;">
-            <span>Invia</span>
-            <div class="liquid"></div>
-          </a>
+        <x-button-create/>    
     </div>
 </form>
 </div>
