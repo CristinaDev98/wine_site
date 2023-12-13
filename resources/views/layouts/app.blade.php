@@ -119,8 +119,8 @@
         <nav class="navbar navbar-expand-md navbar-light bg-white shadow-sm">
             <div class="container">
                 <a class="navbar-brand" href="{{ url('/') }}">
-                    <img src="{{ asset('images/wine.png') }}" alt="" width="6%">
-                    <span class="title-logo">Winepleasure</span>
+                    <img src="{{ asset('images/wine.png') }}" alt="" width="10%">
+                    <span class="title-logo fs-3">Winepleasure</span>
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="{{ __('Toggle navigation') }}">
                     <span class="navbar-toggler-icon"></span>
