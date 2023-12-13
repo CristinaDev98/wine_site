@@ -26,6 +26,7 @@ Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
 
+
 Route::view('wines/contact', 'contact');
 
 Route::resource('wines', App\Http\Controllers\WineController::class);
